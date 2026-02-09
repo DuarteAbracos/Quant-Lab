@@ -1,4 +1,4 @@
-> **⚠️ Archivist Note:** This repository serves as a sandbox for my early experiments in Quantitative Finance (2024).
+> **⚠️ Archivist Note:** This repository serves as a sandbox for my early experiments in Quantitative Finance (2025).
 > It focuses on the raw implementation of financial metrics (Sharpe, Sortino) and Monte Carlo engines without relying on high-level abstraction libraries.
 >
 > **Note on Language:** As these were initial study scripts, variable names and inline comments are in **Portuguese** (e.g., `preço_atual` = `current_price`).
