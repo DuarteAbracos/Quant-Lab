@@ -2,7 +2,7 @@
 > It focuses on the raw implementation of financial metrics (Sharpe, Sortino) and Monte Carlo engines without relying on high-level abstraction libraries.
 >
 > **Note on Language:** As these were initial study scripts, variable names and inline comments are in **Portuguese** (e.g., `preço_atual` = `current_price`).
-> For my production-standard engineering work, please refer to: **[statistical-arbitrage-kalman](github.com/DuarteAbracos/statistical-arbitrage-kalman)**.
+> For my production-standard engineering work, please refer to: **[statistical-arbitrage-kalman](https://github.com/DuarteAbracos/statistical-arbitrage-kalman)**.
 
 ### 📖 Code Glossary (PT -> EN)
 Since the source code uses Portuguese semantics, here is a mapping for international reviewers:
