@@ -31,7 +31,7 @@ This repository contains a comparative analysis of risk-adjusted return metrics 
 ### 2. `metrics.ipynb` (Risk Analytics)
 - **Sharpe Ratio:** Traditional mean-variance optimization.
 - **Sortino Ratio:** Focuses purely on downside deviation, penalizing only harmful volatility.
-- **Key Insight:** In the analysis, the Sortino-optimized portfolio allocated significantly more to [Asset Name/Type] compared to the Sharpe portfolio, proving its effectiveness for assets with high upside potential (e.g., Crypto/Tech stocks).
+- **Key Insight:** In the analysis, the Sortino-optimized portfolio allocated significantly more to **high-volatility assets (e.g., NVDA)** compared to the Sharpe portfolio, proving its effectiveness for assets with high upside potential (e.g., Crypto/Tech stocks).
 
 ## Tech Stack
 - **Python:** Pandas, NumPy
