@@ -1,3 +1,21 @@
+> **⚠️ Archivist Note:** This repository serves as a sandbox for my early experiments in Quantitative Finance (2024).
+> It focuses on the raw implementation of financial metrics (Sharpe, Sortino) and Monte Carlo engines without relying on high-level abstraction libraries.
+>
+> **Note on Language:** As these were initial study scripts, variable names and inline comments are in **Portuguese** (e.g., `preço_atual` = `current_price`).
+> For my production-standard engineering work, please refer to: **[statistical-arbitrage-engine](LINK_PARA_O_NOVO_REPO)**.
+
+### 📖 Code Glossary (PT -> EN)
+Since the source code uses Portuguese semantics, here is a mapping for international reviewers:
+
+| Variable (PT) | Meaning (EN) | Context |
+| :--- | :--- | :--- |
+| `preço_atual` | `current_price` | The last observed closing price |
+| `retorno` | `return` | Daily log-returns or percentage change |
+| `retornos_negativos` | `negative_returns` | Subset of returns < 0 (used for Sortino) |
+| `dias_simulacao` | `simulation_days` | Time horizon for Monte Carlo (e.g., 252 days) |
+| `num_cenarios` | `num_scenarios` | Number of random paths generated (e.g., 1000) |
+
+
 # Quantitative Portfolio Optimization: Sharpe vs. Sortino
 
 ## Overview
